@@ -1,0 +1,5 @@
+{
+  "name": "LensOCR & Chat",
+  "description": "A sophisticated tool to convert image-based PDFs into searchable text documents with built-in AI chat for deep document interrogation and export capabilities.",
+  "requestFramePermissions": []
+}
